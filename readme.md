@@ -1,4 +1,4 @@
-# 📊 AI Portfolio Tracker & Tuner
+# 📊 ML Portfolio Tracker & Tuner
 
 > A smart, machine learning–powered portfolio allocator with a sleek React Native mobile interface.
 
